@@ -13,4 +13,4 @@ In aggiunta alla chat il server può avviare una votazione su delle domande a te
 Ogni client può votare con si/no e lo può fare digitando il comando "!si" e "!no" che invia il risultato al server. Solo quando il quiz è partito i client
 possono votare. Quando hanno votato tutti il server comunica a tutti i risultati delle votazioni.
 
-Il progetto è stato realizzato per l'esame di Programmazione Distribuita da 6 CFU nell'anno accademico 2015/2016.
+Il progetto è stato realizzato per l'esame di Programmazione Distribuita da 6 CFU della Laurea Triennale in Informatica dell'università di Salerno nell'anno accademico 2015/2016.
