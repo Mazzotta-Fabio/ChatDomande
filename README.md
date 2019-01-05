@@ -1,6 +1,6 @@
 # ChatDomande
 La repository contiene un programma client-server realizzato con Java RMI. In particolare si gestisce una chat in cui vengono effettuati dei quiz.
-La chat si avvia e si conduce in maniera in maniera standard: ogni partecipante ha una shell di comandi ed ogni stringa che digita 
+La chat si avvia e si conduce in maniera standard: ogni partecipante ha una shell di comandi ed ogni stringa che digita 
 viene inviata a tutti i partecipanti. Ogni entrata/uscirta di un nuovo utente viene comunicata a tutti i partecipanti. Il server può chattare 
 normalmente come ogni altro utente ma può effettuare il blocco di un utente, e condurrre il quiz. La chat si avvia solamente quando si sono iscritti
 almeno 2 client(con un solo client, il client non può chattare(mentre il servere si)). Se il client prova a chattare va avvisato che non può farlo!
